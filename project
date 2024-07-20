@@ -1,2 +1,10 @@
 cd path/to/your-repository
+git add your-zipped-file.zip
+git commit -m "C:\Users\חנא 2\Desktop\MSc statistics\2023-2024\statistical learning"
+git push origin main
+git clone https://github.com/your-username/your-repository.git
+cd your-repository
+git add example.zip
+git commit -m "C:\Users\חנא 2\Desktop\MSc statistics\2023-2024\statistical learning"
+git push origin main
 
